@@ -1,0 +1,19 @@
+create main 
+create input file
+create a string line
+create a ss converter
+stringstream 
+implement a counter 
+string for a counter
+string for text
+file open
+create a while loop 
+clear the ss 
+str for ss
+make a converter for clear
+converter for str
+give current line to ss.str
+make a get line using ss and scounter
+new getline for text
+cout for converter and scounter
+
